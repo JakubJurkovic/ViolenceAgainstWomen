@@ -4,9 +4,9 @@
 ## Insight on how war, child marriages and education affect violence against women
   
 Authors:
-  - name: Vanessa Robinson
-  - name: Jakub Jurkovic
-  - name: Arya Gautam
+  - Vanessa Robinson
+  - Jakub Jurkovic
+  - Arya Gautam
 
 **Word count: 5710**
 
