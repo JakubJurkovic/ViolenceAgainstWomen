@@ -1,26 +1,14 @@
----
-title: "Markers, causes and correlations of Violence against women"
-description: |
-  Insight on how war, child marriages and education affect violence against women
-author:
+# Check out the [HTML Version](https://jakubjurkovic.github.io/Data-Science/)
+
+# Markers, causes and correlations of Violence against women
+## Insight on how war, child marriages and education affect violence against women
+  
+Authors:
   - name: Vanessa Robinson
   - name: Jakub Jurkovic
   - name: Arya Gautam
-date: "2023-05-09"
-output:
-  distill::distill_article:
-    fig_width: 10
-    fig.asp: 0.5
-    keep_md: true
-    toc: true
-    code_folding: true
----
 
-This is a final project from a Core Data Science Class
-
-
-
-##### Word count: 5710
+**Word count: 5710**
 
 # Introduction
 
